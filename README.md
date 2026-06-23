@@ -85,5 +85,5 @@ Polynomial Regression helps identify patterns like **diminishing returns**, wher
 * python Polynomial_Regression_model.py
 
 ### 3. Run the Streamlit Web Application
-* streamlit run app.pypython model.py
+* streamlit run app.py
   
