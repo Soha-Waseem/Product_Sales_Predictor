@@ -74,7 +74,7 @@ Polynomial Regression helps identify patterns like **diminishing returns**, wher
 * `app.py` → Streamlit web application
 * `advertising.csv` → Dataset
 * `Polynomial_Regression_model.ipynb` → Model training and testing
-* `requirements.txt` → Required fies
+* `requirements.txt` → Required files
 
 ##  How to Run the Project
 
